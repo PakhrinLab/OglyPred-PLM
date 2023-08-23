@@ -6,7 +6,7 @@ The programs were developed in the following environment. python: 3.8.3.final.0,
 
 Please place all the following files in the same directory Comparision with SPRINT-Gly.ipynb, Feature_Extraction_July_30_Sprint_Gly_Negative_Independent_Test_3376_.txt, Feature_Extraction_July_30_Sprint_Gly_Positive_Independent_Test_79_.txt (In the publicly shared google drive), Compare_with_Sprint_Gly486__103928619___.h5, and execute the Comparision with SPRINT-Gly.ipynb program to see the reported result.
 
-Please place all the following files in the same directory SUMO_2_3_Independent_Test_Set_Testing.ipynb, Independent_Test_Set_of_Hendriks_et_al_SUMO_2_3.csv (In the publicly shared google drive), SUMO2_330482327.h5, and execute the SUMO_2_3_Independent_Test_Set_Testing.ipynb program to see the reported result.
+Please place all the following files in the same directory Comparison with Captor Independent  O-linked Glycosylation Test Dataset.ipynb, Feature_Extraction_August_3_Captor_Independent_Negative_Test_1308_or_less.txt, Feature_Extraction_August_3_Captor_Independent_Positive_Test_341_or_less.txt  (In the publicly shared google drive), Compare_with_captor375__1438311___.h5, and execute the Comparison with Captor Independent  O-linked Glycosylation Test Dataset.ipynb program to see the reported result.
 
 Please place all the following files in the same directory GPS SUMO Independent Testing.ipynb, GPS_Testing_Prot_T5_feature.txt (In the publicly shared google drive), GPS_SUMO_Independent_test82423____13.h5, and execute the GPS SUMO Independent Testing.ipynb program to see the reported result.
 
