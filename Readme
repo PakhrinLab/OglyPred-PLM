@@ -13,6 +13,8 @@ Please place all the following files in the same directory O-linked Glycosylatio
 
 *** For your convenience we have uploaded the ProtT5 feature extraction program (analyze_Cell_Mem_ER_Extrac_Protein.py) for the protein sequence from ProtT5 as well as the corresponding 1024 feature vector extraction program (Feature Extraction Program from the generated files.ipynb) from the ProtT5 file. ***
 
+
 All the training and independent test data are uploaded at the following google drive link: https://drive.google.com/drive/folders/1MzfuMltEGF7jxKjzwLZx0gNuSDsLT7tO?usp=sharing
+
 
 If you need any help please contact Dr. Subash Chandra Pakhrin (pakhrins@uhd.edu)
