@@ -11,7 +11,7 @@ Please place all the following files in the same directory Comparison with Capto
 Please place all the following files in the same directory O-linked Glycosylation ProtT5 Independent Testing with undersampling result.ipynb, Feature_Extraction_O_linked_Testing_Negative_11466_Sites_less.txt, Feature_Extraction_O_linked_Testing_Positive_375_Sites_less.txt (In the publicly shared google drive), Prot_T5_my_model_O_linked_Glycosylation370381Prot_T5_Subash_Salman_Neha.h5, and execute the O-linked Glycosylation ProtT5 Independent Testing with undersampling result.ipynb program to see the reported result.
 
 
-*** For your convenience we have uploaded the ProtT5 feature extraction program (analyze_Cell_Mem_ER_Extrac_Protein (1).py) for the protein sequence from ProtT5 as well as the corresponding 1024 feature vector extraction program (Sprint Gly Independent Negative Feature Extraction.ipynb) from the ProtT5 file. ***
+*** For your convenience we have uploaded the ProtT5 feature extraction program (analyze_Cell_Mem_ER_Extrac_Protein (1).py) for the protein sequence from ProtT5 as well as the corresponding 1024 feature vector extraction program (Sprint Gly Independent Negative Feature Extraction.ipynb) from the ProtT5 file. We have uploaded Q63HQ2_Prot_Trans_.csv ProtT5 feature file of protein Q63HQ2.fasta for your convenience ***
 
 
 All the training and independent test data are uploaded at the following google drive link: https://drive.google.com/drive/folders/1MzfuMltEGF7jxKjzwLZx0gNuSDsLT7tO?usp=sharing
