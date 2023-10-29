@@ -83,7 +83,7 @@ Once the code is successfully run, It will generate a file named `"Q63HQ2_Prot_T
 
 Here's how the output file will look:
 
-<img max-width = 100% alt="image" src="https://github.com/mainFrameWire/test/blob/main/ProT5_Output.png">
+<img max-width = 100% alt="image" src="https://github.com/PakhrinLab/OglyPred-PLM/blob/main/images/ProT5_Output.png">
 <br>
 
 Rows = Length of The Protein Sequence  
@@ -113,7 +113,8 @@ Once the process is complete, you will have a .csv file containing the embedding
 
 Here's an example output:
 
-(ADD OUTPUT)
+<img max-width = 100% alt="image" src="https://github.com/PakhrinLab/OglyPred-PLM/blob/main/images/Extraction_S_T_Ouput.png">
+<br>
 
 ## Sending Sites Into OglyPred-PLM For Predection
 
